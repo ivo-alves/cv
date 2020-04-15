@@ -19,12 +19,6 @@ ninjariseID: 1BOe3cVHWDO3CWkzeVA7ZZrYt2f51Yzp0/preview
 * __Digital Game Development Engineering__ - Instituto Politécnico do Cávado e do Ave (Barcelos, Portugal)
 * __Bachelor of Design and Multimedia__ - Universidade de Coimbra (Coimbra, Portugal) (first year only)
 
-Technical skills                                    |
-------------                                        |
-Long experience in Unity, C# and .net frameworks.   |
-Moderate knowledge of Obj-C, Python                 |
-Base working knowledge of C++, OpenGL, GLSL         |
-
 <br/>
 
 # Portfolio #
