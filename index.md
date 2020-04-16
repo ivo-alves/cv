@@ -4,6 +4,7 @@ lowpolysamuraiID: 1gXhq_n48oN9tOoyAz-zwiSJIEFRmOYLY/preview
 geoclipmapID: 1rISztA4P2dMSBDEQfaj53PoDph88R0V6/preview
 ninjariseID: 1BOe3cVHWDO3CWkzeVA7ZZrYt2f51Yzp0/preview
 jjsID: 1BzT-TqTmIAeS_Tnjf9DrgKQuc00A6k4o/preview
+ktkID: 17WMIjDNL1WqCwtCi6USgCzf3kb_bb4w3/preview
 ktkArID: 1Zp9K4kGTS4mlTDGRjJFqgQc9qlVho2Ta/preview
 ktkSm1ID: 1JEvG7JbTX4IX5LHBW0mIe06RiYmYa49e/preview
 ktkSM2ID: 1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview
@@ -34,6 +35,8 @@ ktkSM2ID: 1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview
 Keep the keep is the longest project I've been working on. Initially created and designed by Marco Vale, it has become a team effort and we're both investing all of our free time so we can share it with the world.
 
 For now I'll share a sneak peek. 
+
+{% include googleDrivePlayer.html id=page.ktkID %}
 
 ### This tool that help us create state machines: ###
 
