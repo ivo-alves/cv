@@ -3,8 +3,12 @@ platformerID: 1wAUT1GnaTfRwE6Z854SaocJ3sBhurBF-/preview
 lowpolysamuraiID: 1gXhq_n48oN9tOoyAz-zwiSJIEFRmOYLY/preview
 geoclipmapID: 1rISztA4P2dMSBDEQfaj53PoDph88R0V6/preview
 ninjariseID: 1BOe3cVHWDO3CWkzeVA7ZZrYt2f51Yzp0/preview
-
+jjsID: 1BzT-TqTmIAeS_Tnjf9DrgKQuc00A6k4o/preview
+ktkArID: 1Zp9K4kGTS4mlTDGRjJFqgQc9qlVho2Ta/preview
+ktkSm1ID: 1JEvG7JbTX4IX5LHBW0mIe06RiYmYa49e/preview
+ktkSM2ID: 1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview
 ---
+
 # Ivo Alves #
 
 ![Image](https://avatars2.githubusercontent.com/u/7770065?s=200&v=4)
@@ -21,15 +25,43 @@ ninjariseID: 1BOe3cVHWDO3CWkzeVA7ZZrYt2f51Yzp0/preview
 
 <br/>
 
-# Portfolio #
-
-I wish i had more recent projects in here but this is what I can share for now:
-
-## Academic Projects ##
+# Active Projects #
 
 <br/>
 
-### Geoclipmap Terrain ###
+## Keep The Keep ##
+
+Keep the keep is the longest project I've been working on. Initially created and designed by Marco Vale, it has become a team effort and we're both investing all of our free time so we can share it with the world.
+
+For now I'll share a sneak peek. 
+
+### This tool that help us create state machines: ###
+
+{% include googleDrivePlayer.html id=page.ktkSm1ID %}
+
+### We can also visualise entities in runtime: ###
+
+{% include googleDrivePlayer.html id=page.ktkSM2ID %}
+
+### And an experiment with AR: ###
+
+{% include googleDrivePlayer.html id=page.ktkArID %}
+
+<br/>
+
+## Archery Prototype ##
+
+This prototype is an action multiplayer game for mobile. Here i've experimented with some game mechanics, camera behaviours, user-input and tested the draw backs of having network latency in a fast paced game.
+
+{% include googleDrivePlayer.html id=page.jjsID %}
+
+<br/>
+
+# Academic Projects #
+
+<br/>
+
+## Geoclipmap Terrain ##
 
 Experiment project using __c++__ and __GLSL__ to play with shaders. Created a geoclipmap terrain based on this [paper](http://hhoppe.com/gpugcm.pdf).
 
@@ -41,9 +73,9 @@ The terrain and water meshes are static and only generated during the start up. 
 
 <br/>
 
-### Platformer ###
+## Platformer ##
 
-Project developed using __MonoGame__ to test some game mechanics. Since MonoGame has no built-in editor i used blender to define the level data and properties for dynamic objects.
+Project developed using __MonoGame__ to test some game mechanics. Since MonoGame has no built-in editor, I used blender to define the level data and properties for dynamic objects.
 This allowed me to create levels with different game mechanics such as:
 - Ghost Character - A second character that moved using the same use input as the main character but interacted with different objects (ghost objects)
 - Linked Character - This would link 2 characters together in order to be able to reach places that the player otherwise would reach
@@ -53,7 +85,7 @@ This allowed me to create levels with different game mechanics such as:
 
 <br/>
 
-### My First Game On The Play Store ###
+## My First Game On The Play Store ##
 
 Before staring my professional career I wanted to make sure I had at least one project in the play store, hoping that it would make me more experienced and help me stand out amongst other candidates.
 So I made this casual game named Ninja Rise. It didn't end up a very polished game but I'm still proud of what I've achieved.
@@ -62,15 +94,14 @@ So I made this casual game named Ninja Rise. It didn't end up a very polished ga
 {% include googleDrivePlayer.html id=page.ninjariseID %}
 
 <br/>
-<br/>
 
-## Hobbies ##
+# Hobbies #
 
 I've been doing 3d modeling and rendering since i was about 15 years old, it is one of my favorite hobbies. From time to time I also do some digital painting. You can check out more on [my deviantart](https://ivomiguel.deviantart.com)
 
 <br/>
 
-### Low-poly Warcraft Troll ###
+## Low-poly Warcraft Troll ##
 
 Low-poly based on the Warcraft Troll modeled and texture painted with blender
 
@@ -78,7 +109,7 @@ Low-poly based on the Warcraft Troll modeled and texture painted with blender
 
 <br/>
 
-### Low-poly samurai ###
+## Low-poly samurai ##
 
 Low-poly samurai modeled and textured using __3ds max__
 
@@ -86,7 +117,7 @@ Low-poly samurai modeled and textured using __3ds max__
 
 <br/>
 
-### Mr. White ###
+## Mr. White ##
 
 Digitally painted using __Photoshop__
 
@@ -94,6 +125,6 @@ Digitally painted using __Photoshop__
 
 <br/>
 
-### Bugatti veyron rendered with __final render__ ###
+## Bugatti veyron rendered with __final render__ ##
 
 ![Image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fbecf30e-f31c-476a-8287-82c4ccf65225/d1kb4or-f773a2e7-7b8c-471c-ab13-976ef331c20a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZiZWNmMzBlLWYzMWMtNDc2YS04Mjg3LTgyYzRjY2Y2NTIyNVwvZDFrYjRvci1mNzczYTJlNy03YjhjLTQ3MWMtYWIxMy05NzZlZjMzMWMyMGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O872WkpwMo8AwcD1NPzA8OD-mWohV9E99SQiU5y8pm8)
