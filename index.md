@@ -8,6 +8,7 @@ ktkID: 17WMIjDNL1WqCwtCi6USgCzf3kb_bb4w3/preview
 ktkArID: 1Zp9K4kGTS4mlTDGRjJFqgQc9qlVho2Ta/preview
 ktkSm1ID: 1JEvG7JbTX4IX5LHBW0mIe06RiYmYa49e/preview
 ktkSM2ID: 1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview
+ktkSM3ID: 1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview
 ---
 
 # Ivo Alves #
@@ -37,6 +38,7 @@ ktkSM2ID: 1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview
 ### Update ###
 26th jan 2020 - Keep the keep just got release on [Google PlayStore](https://play.google.com/store/apps/details?id=com.tuskgames.KeepTheKeep)
 
+{% include googleDrivePlayer.html id=page.ktkSM3ID %}
 
 Keep the keep is the longest project I've been working on. Initially created and designed by Marco Vale, it has become a team effort and we're both investing all of our free time so we can share it with the world.
 
