@@ -34,7 +34,8 @@ ktkSM2ID: 1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview
 
 ## Keep The Keep ##
 
-### Update ### 26th jan 2020 - Keep the keep just got release on [Google PlayStore](https://play.google.com/store/apps/details?id=com.tuskgames.KeepTheKeep)
+### Update ###
+26th jan 2020 - Keep the keep just got release on [Google PlayStore](https://play.google.com/store/apps/details?id=com.tuskgames.KeepTheKeep)
 
 
 Keep the keep is the longest project I've been working on. Initially created and designed by Marco Vale, it has become a team effort and we're both investing all of our free time so we can share it with the world.
