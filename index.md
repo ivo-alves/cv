@@ -44,7 +44,6 @@ Keep as an early prototype:
 ### We can also visualise entities in runtime: ###
 
 {% include googleDrivePlayer.html id="1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview" %}
-{% include googleDrivePlayer.html id="1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview" %}
 
 ### And an experiment with AR: ###
 
