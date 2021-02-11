@@ -1,4 +1,5 @@
 ---
+
 platformerID: 1wAUT1GnaTfRwE6Z854SaocJ3sBhurBF-/preview
 lowpolysamuraiID: 1gXhq_n48oN9tOoyAz-zwiSJIEFRmOYLY/preview
 geoclipmapID: 1rISztA4P2dMSBDEQfaj53PoDph88R0V6/preview
@@ -8,7 +9,8 @@ ktkID: 17WMIjDNL1WqCwtCi6USgCzf3kb_bb4w3/preview
 ktkArID: 1Zp9K4kGTS4mlTDGRjJFqgQc9qlVho2Ta/preview
 ktkSm1ID: 1JEvG7JbTX4IX5LHBW0mIe06RiYmYa49e/preview
 ktkSM2ID: 1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview
-ktkSM3ID: 1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview
+ktkplayID: 1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview
+
 ---
 
 # Ivo Alves #
@@ -42,11 +44,11 @@ ktkSM3ID: 1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview
 
 [Download on the App Store](https://apps.apple.com/app/id1543935852)
 
-{% include googleDrivePlayer.html id=page.ktkSM3ID %}
+{% include googleDrivePlayer.html id=page.ktkplayID %}
 
 Keep the keep is the longest project I've been working on. Initially created and designed by Marco Vale, it has become a team effort and we're both investing all of our free time so we can share it with the world.
 
-For now I'll share a sneak peek. 
+Keep as an early prototype:
 
 {% include googleDrivePlayer.html id=page.ktkID %}
 
