@@ -36,7 +36,11 @@ ktkSM3ID: 1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview
 ## Keep The Keep ##
 
 ### Update ###
-26th jan 2020 - Keep the keep just got release on [Google PlayStore](https://play.google.com/store/apps/details?id=com.tuskgames.KeepTheKeep)
+26th jan 2020 - Keep the keep just got released:
+
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.tuskgames.KeepTheKeep)
+
+[Download on the App Store](https://apps.apple.com/app/id1543935852)
 
 {% include googleDrivePlayer.html id=page.ktkSM3ID %}
 
