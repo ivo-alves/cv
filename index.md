@@ -44,9 +44,9 @@ ktkplayID: 1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview
 
 [Download on the App Store](https://apps.apple.com/app/id1543935852)
 
-{% include googleDrivePlayer.html id=page.ktkplayID %}
-
 Keep the keep is the longest project I've been working on. Initially created and designed by Marco Vale, it has become a team effort and we're both investing all of our free time so we can share it with the world.
+
+{% include googleDrivePlayer.html id=page.ktkplayID %}
 
 Keep as an early prototype:
 
