@@ -31,23 +31,23 @@
 
 Keep the keep is the longest project I've been working on. Initially created and designed by Marco Vale, it has become a team effort and we're both investing all of our free time so we can share it with the world.
 
-{% include googleDrivePlayer.html id="1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview" %}
+{% include googleDrivePlayer.html id="1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/view" %}
 
 ### Keep as an early prototype: ###
 
-{% include googleDrivePlayer.html id="17WMIjDNL1WqCwtCi6USgCzf3kb_bb4w3/preview" %}
+{% include googleDrivePlayer.html id="17WMIjDNL1WqCwtCi6USgCzf3kb_bb4w3/view" %}
 
 ### A tool that help us create state machines: ###
 
-{% include googleDrivePlayer.html id="1JEvG7JbTX4IX5LHBW0mIe06RiYmYa49e/preview" %}
+{% include googleDrivePlayer.html id="1JEvG7JbTX4IX5LHBW0mIe06RiYmYa49e/view" %}
 
 ### We can also visualise units in runtime: ###
 
-{% include googleDrivePlayer.html id="1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview" %}
+{% include googleDrivePlayer.html id="1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/view" %}
 
 ### And an experiment with AR: ###
 
-{% include googleDrivePlayer.html id="1Zp9K4kGTS4mlTDGRjJFqgQc9qlVho2Ta/preview" %}
+{% include googleDrivePlayer.html id="1Zp9K4kGTS4mlTDGRjJFqgQc9qlVho2Ta/view" %}
 
 <br/>
 
@@ -55,7 +55,7 @@ Keep the keep is the longest project I've been working on. Initially created and
 
 Just a simple gravity system to explore unit's DOTs.
 
-{% include googleDrivePlayer.html id="17ZTpoGgFnl_CWUbhfIVYIKZivcH_CYN2/preview" %}
+{% include googleDrivePlayer.html id="17ZTpoGgFnl_CWUbhfIVYIKZivcH_CYN2/view" %}
 
 This simulation is running on a i5 Mac mini (Late 2014).
 
@@ -63,7 +63,7 @@ This simulation is running on a i5 Mac mini (Late 2014).
 
 This prototype is an action multiplayer game for mobile. Here i've experimented with some game mechanics, camera behaviours, user-input and tested the draw backs of having network latency in a fast paced game.
 
-{% include googleDrivePlayer.html id="1BzT-TqTmIAeS_Tnjf9DrgKQuc00A6k4o/preview" %}
+{% include googleDrivePlayer.html id="1BzT-TqTmIAeS_Tnjf9DrgKQuc00A6k4o/view" %}
 
 <br/>
 
@@ -79,7 +79,7 @@ This implementation can draw a terrain (or water) with different levels of detai
 
 The terrain and water meshes are static and only generated during the start up. The height of the mesh is computed with GPU. This reduces cpu process time and has very low cost on performance.
 
-{% include googleDrivePlayer.html id="1rISztA4P2dMSBDEQfaj53PoDph88R0V6/preview" %}
+{% include googleDrivePlayer.html id="1rISztA4P2dMSBDEQfaj53PoDph88R0V6/view" %}
 
 <br/>
 
@@ -91,7 +91,7 @@ This allowed me to create levels with different game mechanics such as:
 - Linked Character - This would link 2 characters together in order to be able to reach places that the player otherwise would reach
 - Slow Motion - Only the character motion would be affected, allowing the player to make skilled jumps that otherwise would be too difficult.
 
-{% include googleDrivePlayer.html id="1wAUT1GnaTfRwE6Z854SaocJ3sBhurBF-/preview" %}
+{% include googleDrivePlayer.html id="1wAUT1GnaTfRwE6Z854SaocJ3sBhurBF-/view" %}
 
 <br/>
 
@@ -101,7 +101,7 @@ Before staring my professional career I wanted to make sure I had at least one p
 So I made this casual game named Ninja Rise. It didn't end up a very polished game but I'm still proud of what I've achieved.
 
 
-{% include googleDrivePlayer.html id="1BOe3cVHWDO3CWkzeVA7ZZrYt2f51Yzp0/preview" %}
+{% include googleDrivePlayer.html id="1BOe3cVHWDO3CWkzeVA7ZZrYt2f51Yzp0/view" %}
 
 <br/>
 
@@ -123,7 +123,7 @@ Low-poly based on the Warcraft Troll modeled and texture painted with blender
 
 Low-poly samurai modeled and textured using __3ds max__
 
-{% include googleDrivePlayer.html id="1gXhq_n48oN9tOoyAz-zwiSJIEFRmOYLY/preview" %}
+{% include googleDrivePlayer.html id="1gXhq_n48oN9tOoyAz-zwiSJIEFRmOYLY/view" %}
 
 <br/>
 
