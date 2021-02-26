@@ -57,6 +57,8 @@ Just a simple gravity system to explore unit's DOTs.
 
 {% include googleDrivePlayer.html id="17ZTpoGgFnl_CWUbhfIVYIKZivcH_CYN2/preview" %}
 
+This simulation is running on a i5 Mac mini (Late 2014).
+
 ## Archery Prototype ##
 
 This prototype is an action multiplayer game for mobile. Here i've experimented with some game mechanics, camera behaviours, user-input and tested the draw backs of having network latency in a fast paced game.
