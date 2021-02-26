@@ -33,15 +33,15 @@ Keep the keep is the longest project I've been working on. Initially created and
 
 {% include googleDrivePlayer.html id="1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview" %}
 
-Keep as an early prototype:
+### Keep as an early prototype: ###
 
 {% include googleDrivePlayer.html id="17WMIjDNL1WqCwtCi6USgCzf3kb_bb4w3/preview" %}
 
-### This tool that help us create state machines: ###
+### A tool that help us create state machines: ###
 
 {% include googleDrivePlayer.html id="1JEvG7JbTX4IX5LHBW0mIe06RiYmYa49e/preview" %}
 
-### We can also visualise entities in runtime: ###
+### We can also visualise units in runtime: ###
 
 {% include googleDrivePlayer.html id="1cPpMX86V6tIVMTiorq0CeFwcF8Y2G5kc/preview" %}
 
