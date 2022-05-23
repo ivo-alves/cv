@@ -1,9 +1,11 @@
 # Ivo Alves #
 
-![Image](https://avatars2.githubusercontent.com/u/7770065?s=200&v=4)
+![Image](https://lh3.googleusercontent.com/a-/AOh14Ggjm9HCc5hpKQWC9lW4ca_GDReuXc1ClBpaZpZ0=s504-p-rw-no)
 
 ### Professional Experience ###
 
+* __Senior Software Developer @ Nukklear__ - Ported Super Meat Boy Forever to Android and iOS. Since the game has an in-house engine we had to resort to OpenGLES 3.0 and c++. An intensive work in performance optimization was made to ensure 60fps on the mobile platform.
+Worked with Unreal 4 (c++) and Hadean’s Aether Engine (pure c), a spatial solution for large world simulations. Here we created a city emergency scenario that was processed by multiple offsite servers.
 * __Software developer @ Miniclip SA__ - Responsible for supporting and improving the internal codebase libraries. Worked with cocos-2d and obj-c for the mobile titles. Implemented unity package tools to be used internally.
 * __Software developer @ Indot Studio__ - Created game prototypes and editor tools using Unity.
 
@@ -31,11 +33,11 @@
 
 Keep the keep is the longest project I've been working on. Initially created and designed by Marco Vale, it has become a team effort and we're both investing all of our free time so we can share it with the world.
 
-{% include googleDrivePlayer.html id="1Ci7Dw9QM5OTkHHQWTTbKpRl4_MNXxLH3/preview" %}
+{% include googleDrivePlayer.html id="15zrxiKFqdHREEfi2Qi3ZyeZWVXsoIDJW/preview" %}
 
 ### Keep as an early prototype: ###
 
-{% include googleDrivePlayer.html id="17WMIjDNL1WqCwtCi6USgCzf3kb_bb4w3/preview" %}
+{% include googleDrivePlayer.html id="1qOizzbJW86t4I3FTfxyM06qWiDUVR5CJ/preview" %}
 
 ### A tool that help us create state machines: ###
 
@@ -123,7 +125,7 @@ Low-poly based on the Warcraft Troll modeled and texture painted with blender
 
 Low-poly samurai modeled and textured using __3ds max__
 
-{% include googleDrivePlayer.html id="1gXhq_n48oN9tOoyAz-zwiSJIEFRmOYLY/preview" %}
+{% include googleDrivePlayer.html id="1GbT0yySxJeHA31_pok0yG5xvWEiuRInv/preview" %}
 
 <br/>
 
