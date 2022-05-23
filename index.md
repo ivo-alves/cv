@@ -1,6 +1,6 @@
 # Ivo Alves #
 
-![Image](https://lh3.googleusercontent.com/a-/AOh14Ggjm9HCc5hpKQWC9lW4ca_GDReuXc1ClBpaZpZ0=s504-p-rw-no)
+![Image](https://lh3.googleusercontent.com/a-/AOh14Ggjm9HCc5hpKQWC9lW4ca_GDReuXc1ClBpaZpZ0=s200-p-rw-no)
 
 ### Professional Experience ###
 
