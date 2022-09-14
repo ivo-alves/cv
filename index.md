@@ -5,28 +5,28 @@
 ### Professional Experience ###
 
 * __Senior Software Developer @ Nukklear__
-** Reworked Tinkertown’s game structure to be able to host multiplayer games on all platforms (Unity).
-** Developed a prototype for the in-house game, Fog & Silver using Unreal Engine 5. 
-** Ported Super Meat Boy Forever to Android and iOS. Since the game has an in-house engine we had to resort to OpenGLES 3.0 and c++. An intensive work in performance optimization was made to ensure 60fps on the mobile platform.
-** Worked with Unreal 4 (c++) and Hadean’s Aether Engine (pure c), a spatial solution for large world simulations. Here we created a city emergency scenario that was processed by multiple offsite servers.
+    * Reworked Tinkertown’s game structure to be able to host multiplayer games on all platforms (Unity).
+    * Developed a prototype for the in-house game, Fog & Silver using Unreal Engine 5. 
+    * Ported Super Meat Boy Forever to Android and iOS. Since the game has an in-house engine we had to resort to OpenGLES 3.0 and c++. An intensive work in performance optimization was made to ensure 60fps on the mobile platform.
+    * Worked with Unreal 4 (c++) and Hadean’s Aether Engine (pure c), a spatial solution for large world simulations. Here we created a city emergency scenario that was processed by multiple offsite servers.
 
 * __Software developer @ Miniclip SA__
-** Implemented unity package tools and worked with titles such as Golf Battle.
-** Responsible for supporting and improving the internal codebase libraries.
-** Worked with cocos-2d and added custom features to the internal sprite builder to speed up the content creation pipeline.
-** Supported other teams with integrations in titles such as 8 Ball Pool and Soccer Stars (obj-c, c++).
-** Implemented content and logic related to dynamic game promotions.
-** Member of a c++ club created to improve the company’s code quality.
+    * Implemented unity package tools and worked with titles such as Golf Battle.
+    * Responsible for supporting and improving the internal codebase libraries.
+    * Worked with cocos-2d and added custom features to the internal sprite builder to speed up the content creation pipeline.
+    * Supported other teams with integrations in titles such as 8 Ball Pool and Soccer Stars (obj-c, c++).
+    * Implemented content and logic related to dynamic game promotions.
+    * Member of a c++ club created to improve the company’s code quality.
 
 * __Software developer @ Indot Studio__
-** Developed several game prototypes using Unity.
-** Created editor and level tools to increase productivity.
+    * Developed several game prototypes using Unity.
+    * Created editor and level tools to increase productivity.
 
 ### Academic Progress ###
 
 * __Digital Game Development Engineering__ - Instituto Politécnico do Cávado e do Ave (Barcelos, Portugal)
-** Classes focused on software development such as C, C#, GLSL, OpenGl, Unity, MonoGame and XNA.
-** Complemented by game design and art classes such as creating GDDs and using Blender.
+    ** Classes focused on software development such as C, C#, GLSL, OpenGl, Unity, MonoGame and XNA.
+    ** Complemented by game design and art classes such as creating GDDs and using Blender.
 
 <br/>
 
