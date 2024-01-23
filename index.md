@@ -5,6 +5,7 @@
 ### Professional Experience ###
 
 * __Senior Software Developer @ Nukklear__
+    * Worked with the physics and gameplay teams at [Straight4 Studios](https://www.straight4.com) for the new [GTRevival](https://racesimcentral.net/gtrevival/) car simulation game (kind of sequel to Project Cars or Automobilista). Assisted with the physics engine integration in unreal 5 and then co-developed gameplay mechanics and systems.
     * Reworked Tinkertown’s game structure to be able to host multiplayer games on all platforms (Unity).
     * Developed a prototype for the in-house game, Fog & Silver using Unreal Engine 5. 
     * Ported Super Meat Boy Forever to Android and iOS. Since the game has an in-house engine we had to resort to OpenGLES 3.0 and c++. An intensive work in performance optimization was made to ensure 60fps on the mobile platform.
