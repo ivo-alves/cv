@@ -6,16 +6,16 @@
 
 * __Senior Software Developer @ Nukklear__
     * Worked with the physics and gameplay teams at [Straight4 Studios](https://www.straight4.com) for the new [GTRevival](https://racesimcentral.net/gtrevival/) car simulation game (kind of sequel to Project Cars or Automobilista). Assisted with the physics engine integration in unreal 5 and then co-developed gameplay mechanics and systems.
-    * Reworked Tinkertown’s game structure to be able to host multiplayer games on all platforms (Unity).
-    * Developed a prototype for the in-house game, Fog & Silver using Unreal Engine 5. 
-    * Ported Super Meat Boy Forever to Android and iOS. Since the game has an in-house engine we had to resort to OpenGLES 3.0 and c++. An intensive work in performance optimization was made to ensure 60fps on the mobile platform.
-    * Worked with Unreal 4 (c++) and Hadean’s Aether Engine (pure c), a spatial solution for large world simulations. Here we created a city emergency scenario that was processed by multiple offsite servers.
+    * Reworked [Tinkertown’s](https://store.steampowered.com/app/1276660/Tinkertown/) game structure to be able to host multiplayer games on all platforms (Unity).
+    * Developed a prototype for the in-house game, [Fog & Silver](https://nukklear.com/fog-and-silver) using Unreal Engine 5. 
+    * Ported [Super Meat Boy Forever](https://store.steampowered.com/app/581660/Super_Meat_Boy_Forever/) to Android and iOS. Since the game has an in-house engine we had to resort to OpenGLES 3.0 and c++. An intensive work in performance optimization was made to ensure 60fps on the mobile platform.
+    * Worked with Unreal 4 (c++) and [Hadean’s](https://hadean.com) Aether Engine (pure c), a spatial solution for large world simulations. Here we created a city emergency scenario that was processed by multiple offsite servers.
 
 * __Software developer @ Miniclip SA__
-    * Implemented unity package tools and worked with titles such as Golf Battle.
+    * Implemented unity package tools and worked with titles such as [Golf Battle](https://play.google.com/store/apps/details?id=games.onebutton.golfbattle&hl=en&gl=US).
     * Responsible for supporting and improving the internal codebase libraries.
     * Worked with cocos-2d and added custom features to the internal sprite builder to speed up the content creation pipeline.
-    * Supported other teams with integrations in titles such as 8 Ball Pool and Soccer Stars (obj-c, c++).
+    * Supported other teams with integrations in titles such as [8 Ball Pool](https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=US) and [Soccer Stars](https://play.google.com/store/apps/details?id=com.miniclip.soccerstars&hl=en&gl=US) (obj-c, c++).
     * Implemented content and logic related to dynamic game promotions.
     * Member of a c++ club created to improve the company’s code quality.
 
